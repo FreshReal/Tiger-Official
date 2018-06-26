@@ -24,4 +24,4 @@ if (message.content.toLowerCase().includes('https://discord.gg')) { //mesajul de
 }
 }); //si aici se incheie, tot ce e dupa }); nu mai este definit, uite un exemplu
 
-client.login('token')
+client.login('NDYwODMwMzE1Mjc2MTQwNTU2.DhPoiw.hzUuItkL64LbWpkqNxGA2Tn5GZ0')
